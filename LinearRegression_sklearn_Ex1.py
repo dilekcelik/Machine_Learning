@@ -4,7 +4,7 @@
 Created on Mon Mar 26 15:47:00 2018
 @author: dilekcelik
 
-LINEER REGRESSION
+LINEAR REGRESSION
 """
 
 import numpy as np # mathmatical calculations
